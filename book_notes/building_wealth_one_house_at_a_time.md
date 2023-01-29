@@ -45,11 +45,11 @@ Buy in a neighborhood that is on its way up. What data can I get to figure this 
 Page 21
 
 What does it mean to refinance your house?
+    You get a new mortgage on your house. You use the funds from the new mortgage to pay off the outstanding balance of your original mortgage. You might want to refinance if the new mortgage has better terms (lower interest rates, longer term, etc.) than your original mortgage.
 
 Page 22
 
 Get good financing and good tenants with low operating costs.
-
 - good financing means long term, fixed interest loans
 - good tenants are long term tenants who will take care of property
 - low operating costs includes: property taxes, insurance, and maintenance costs
@@ -177,8 +177,10 @@ Look over amortization table. It has 4 variables:
 Page 89
 
 What is an amortizing loan?
+    A loan with payments which pay off both interest and princiapl.
 
 What does it mean for a loan to be secured?
+    For a loan to be secured, it's protected by collateral. For example, a mortgage is a secured loan with the house as collateral.
 
 Page 90
 
