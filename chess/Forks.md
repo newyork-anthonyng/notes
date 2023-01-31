@@ -1,0 +1,3 @@
+When looking for forks, or any other tactics, don't be discouraged if the forking square is occupied by your piece, or your opponent. If it's occupied by your piece, ask yourself: can I move that piece in such a way that it requires a response from opponent (check, capture)? If it's my opponent's piece, can I lure it away (pawn attack)?
+
+When neither of the forking targets is a King, be careful! The opponent has more options to respond to the fork. They may be able to move one of the pieces to check or capture something. This is why a King fork is better. The opponent's options are limited.
